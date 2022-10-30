@@ -1,4 +1,5 @@
-~/.config/karabiner
+# ~/.config/karabiner
+
 {
     "global": {
         "check_for_updates_on_startup": true,
@@ -931,7 +932,8 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
-                                            "^com\\.jetbrains\\.pycharm\\.ce$"
+                                            "^com\\.jetbrains\\.pycharm\\.ce$",
+                                            "com.jetbrains.goland"
                                         ],
                                         "type": "frontmost_application_if"
                                     }
