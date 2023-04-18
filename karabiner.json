@@ -1008,7 +1008,8 @@
                                         "bundle_identifiers": [
                                             "^com\\.jetbrains\\.pycharm\\.ce$",
                                             "com.jetbrains.goland",
-						"com.jetbrains.pycharm"
+						                    "com.jetbrains.pycharm",
+                                            "com.jetbrains.WebStorm"
                                         ],
                                         "type": "frontmost_application_if"
                                     }
