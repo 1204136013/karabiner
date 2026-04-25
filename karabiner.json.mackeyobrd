@@ -954,7 +954,6 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
-                                            "^com\\.apple\\.Terminal$",
                                             "^com\\.googlecode\\.iterm2$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1039,6 +1038,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "^com\\.apple\\.Terminal$",
                                             "^com\\.jetbrains\\.pycharm\\.ce$",
                                             "com.jetbrains.goland",
                                             "com.jetbrains.pycharm",
