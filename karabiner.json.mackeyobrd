@@ -1043,7 +1043,7 @@
                                             "com.jetbrains.goland",
                                             "com.jetbrains.pycharm",
                                             "com.jetbrains.WebStorm",
-                                            "com.jetbrains.intellij",
+                                            "com.jetbrains.intellij"
                                         ],
                                         "type": "frontmost_application_if"
                                     }
